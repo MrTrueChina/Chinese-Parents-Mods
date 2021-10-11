@@ -2,8 +2,8 @@
 
 ### 使用说明（点击查看步骤详情）：
 中国式家长所有 Mod 基于 Unity Mod Manager 实现，使用 Mod 需要以下几个主要步骤：  
-1. 下载 Unity Mod Manager 并导入对中国式家长的配置。
-2. 运行 Unity Mod Manager，修改中国式家长游戏文件。
+1. [下载 Unity Mod Manager 并导入对中国式家长的配置。](Use/Step1-Download-Conffig)
+2. [运行 Unity Mod Manager，修改中国式家长游戏文件。](Use/Step2-Run-Unity-Mod-Manager)
 3. 下载需要的 Mod，解压后放入游戏根目录下的 Mods 文件夹中。
 
 **警告：所有 Mod 均基于 Unity Mod Manager 0.23.5 制作，不保证对其他版本的兼容性。**
