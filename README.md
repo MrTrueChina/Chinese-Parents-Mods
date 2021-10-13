@@ -6,7 +6,8 @@
 2. [运行 Unity Mod Manager，修改中国式家长游戏文件。](Use/Step2-Run-Unity-Mod-Manager)
 3. 下载需要的 Mod，解压后放入游戏根目录下的 Mods 文件夹中。
 
-**警告：所有 Mod 均基于 Unity Mod Manager 0.23.5 制作，不保证对其他版本的兼容性。**
+**警告：所有 Mod 均基于 Unity Mod Manager 0.23.5 制作，不保证对其他版本的兼容性。**  
+**警告：所有 Mod 仅支持中文版，作者没有对其他语言进行测试，但根据代码逻辑可以保证在其他语言版本使用会导致部分文本显示为中文。**  
   
 <br/>
   
