@@ -9,7 +9,7 @@
 ![解压后文件夹](WindowsFiles.png)
 在解压后文件夹中找到 UnityModManagerConfig.xml
 ![修改配置](ChangeConfig.png)
-打开文件，添加配置内容，注意层级，不是加在文件最后面，是加在 <config></config> 里面。  
+打开文件，添加配置内容，注意层级，不是加在文件最后面，是加在 &#60;Config&#62;&#60;/Config&#62; 里面。  
 添加的内容：
 ```
 <!-- 中国式家长 -->
